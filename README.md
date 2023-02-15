@@ -2,12 +2,7 @@
 <b> Service Change Classifier to perform Change Mining of a Distributed System </b> <br>
 <b> Service Evolution Metrics to perform Evolution Mining of a Distributed System </b> <br>
 
-Pre-requisite knoweldge of NetBeans, Web-Services, and Libraries (imports) to re-deploy the project. <br>
-
-Basics of - <br>
-<b> - Cloud Service Life Cycle </b> https://youtu.be/0BTYNOVJOBY <br>
-<b> - Cloud Deployment Scenarios  </b> https://youtu.be/KqZ64ylCnVc <br>
-<b> - Cloud Service Development Testing </b> https://youtu.be/c_jBuw_4KMM <br>
+Re-deployment of the project needs knowledge of Java, NetBeans, Web-Services, and Libraries (imports). <br>
 
 Project related video presentations are as follows - <br>
 <b> - AWSCM </b> https://www.youtube.com/watch?v=Zg1f3x0OH5k  <br>
@@ -16,9 +11,6 @@ Project related video presentations are as follows - <br>
 <b> - PRTWS </b> https://youtu.be/qkXe3YEi264 <br>
 <b> - Web Service Slicing </b> https://youtu.be/1IFZSvvVwQw <br>
 <b> - Service Evolution Analytics </b> https://youtu.be/krpsiMKp40g <br>
-
-Applications of this project could be - <br>
-<b> - QoS and SLA </b> https://youtu.be/UfD2DLIeHxg <br>
 
 Please read, refer, and cite the following research papers that are based on <br> 
 <b>  Service Evolution Analytics </b> using <br> 
@@ -42,8 +34,14 @@ C2. Animesh Chaturvedi & Atul Gupta, “A Tool Supported Approach to Perform Eff
 
 C1. Animesh Chaturvedi, “Reducing cost in Regression testing of Web services”, 6th CSI International Conference on Software Engineering, IEEE, Sept 2012. DOI: 10.1109/CONSEG.2012.6349498.
 
+Basics related videos from my lectures on Cloud Computing course https://www.youtube.com/watch?v=YWFy5Pwm_Uk&list=PLtvWi5o3JBnE7qyk4xkoYl9Be8vi8MOeJ - <br>
+<b> - Cloud Service Life Cycle </b> https://youtu.be/0BTYNOVJOBY <br>
+<b> - Cloud Deployment Scenarios  </b> https://youtu.be/KqZ64ylCnVc <br>
+<b> - Cloud Service Development Testing </b> https://youtu.be/c_jBuw_4KMM <br>
+Applications of this project could be <b> - QoS and SLA </b> https://youtu.be/UfD2DLIeHxg <br>
+
 There are few more projects, which are aligned to this project. <br>
-https://github.com/animesh88/WebServiceSlicing-ORTWS-PRTWS <br>
+https://github.com/animesh88/ServiceEvolutionAnalytics <br>
 https://github.com/animesh88/JMeterRTWS <br>
 https://github.com/animesh88/SaaS <br>
 https://github.com/animesh88/BookService <br>
