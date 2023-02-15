@@ -41,7 +41,7 @@ Videos related to the basic concepts related to the project, which are lectures 
 Applications of this project could be <b> - QoS and SLA </b> https://youtu.be/UfD2DLIeHxg <br>
 
 There are few more projects, which are aligned to this project. <br>
-https://github.com/animesh88/ServiceEvolutionAnalytics <br>
+https://github.com/animesh88/WebServiceSlicing-ORTWS-PRTWS <br>
 https://github.com/animesh88/JMeterRTWS <br>
 https://github.com/animesh88/SaaS <br>
 https://github.com/animesh88/BookService <br>
