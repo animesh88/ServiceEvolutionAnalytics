@@ -20,10 +20,10 @@ Project related video presentations are as follows - <br>
 Applications of this project could be - <br>
 <b> - QoS and SLA </b> https://youtu.be/UfD2DLIeHxg <br>
 
-Please read, refer, and cite the following research papers that used the -
-<b>  Service Evolution Analytics using </b> <br>
+Please read, refer, and cite the following research papers that are based on <br> 
+<b>  Service Evolution Analytics </b> using <br> 
 <b> (a) Service Change Classifier to perform Change Mining of a Distributed System </b> <br>
-<b> (b) Service Evolution Metrics to perform Evolution Mining of a Distributed System  - </b> <br>.
+<b> (b) Service Evolution Metrics to perform Evolution Mining of a Distributed System. </b> <br>
 
 # Service Evolution Analytics: Change and Evolution Mining of a Distributed System
 J2 Animesh Chaturvedi, Aruna Tiwari, Shubhangi Chaturvedi, and Dave Binkley “Service Evolution Analytics: Change and Evolution Mining of a Distributed System”, IEEE Transactions on Engineering Management. DOI: 10.1109/TEM.2020.2987641 https://youtu.be/krpsiMKp40g https://github.com/animesh88/ServiceEvolutionAnalytics
